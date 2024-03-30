@@ -1,0 +1,29 @@
+{
+  "name": "luis-f-cerda-p.github.io",
+  "version": "1.0.0",
+  "description": "Travel-Safe-Mockup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis-F-Cerda-P/Luis-F-Cerda-P.github.io.git"
+  },
+  "keywords": [
+    "Design",
+    "Thinking",
+    "Viajes",
+    "Css",
+    "HTML"
+  ],
+  "author": "Luis Cerda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luis-F-Cerda-P/Luis-F-Cerda-P.github.io/issues"
+  },
+  "homepage": "https://github.com/Luis-F-Cerda-P/Luis-F-Cerda-P.github.io#readme",
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3"
+  }
+}

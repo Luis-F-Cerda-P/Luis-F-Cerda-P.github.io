@@ -1,11 +1,12 @@
+@import '/node_modules/bootstrap-icons/font/bootstrap-icons.min.css';
+
 body {
   background-color: black;
   color: white;
   overflow: hidden;
 }
 
-.btn.btn-glow {
-
+.btn-glow {
   background-color: #ffffff;
   color: black;
   /* Background color of the rectangle */
@@ -13,8 +14,30 @@ body {
   /* Box shadow for the glow effect */
 }
 
-.btn.btn-glow.btn.btn-glow:hover {
-  box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.7);
+.icon-glow {
+  text-shadow: white 3px 3px 20px;
+}
+
+.bi.icon-glow:hover {
+  transform-origin: right;
+  animation: colorChangeOnly 3s linear infinite;
+  /* text-shadow: 0 0 20px rgba(255, 214, 0, 1); */
+  color: yellow;
+}
+
+dialog {
+  width: 100%;
+  height: 30%;
+  margin: 0;
+  transform: translateX(-50%);
+  left: 50%;
+  top: 25%;
+  background-color: rgba(255, 255, 255, 0.685);
+  border: unset;
+}
+
+.bi-airplane-engines-fill::before {
+  transform: rotate(45deg);
 }
 
 .img-max {
@@ -41,6 +64,16 @@ body {
   100% {
     filter: hue-rotate(360deg);
     transform: rotate(360deg);
+  }
+}
+
+@keyframes colorChangeOnly {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+
+  100% {
+    filter: hue-rotate(360deg);
   }
 }
 
