@@ -18,7 +18,7 @@
 ### 🔹 Core Content
 - [ ] **Home page**
   - [ ] Short bio / intro
-  - [ ] Links to GitHub, LinkedIn, Email
+  - [X] Links to GitHub, LinkedIn, Email
 - [ ] **Projects section**
   - [ ] At least 3 projects with:
     - [ ] Title + short description
