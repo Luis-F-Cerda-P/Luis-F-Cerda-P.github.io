@@ -13,7 +13,7 @@
 - [X] Initialize a Jekyll site (via `jekyll new` or by forking a theme)
 - [X] Configure GitHub Pages deployment (main or gh-pages branch)
 - [X] Add `_config.yml` with basic settings (title, description, baseurl)
-- [ ] Set up favicon and meta tags (title, description, OpenGraph, Twitter)
+- [X] Set up favicon and meta tags (title, description, OpenGraph, Twitter)
 
 ### 🔹 Core Content
 - [ ] **Home page**
