@@ -36,7 +36,7 @@
 
 ### 🔹 Bilingual Setup
 - [ ] Create Spanish and English versions of each main page
-- [ ] Add a language toggle to navbar
+- [X] Add a language toggle to navbar
 - [ ] Use a translations file in `_data/` (e.g., `i18n.yml`)
 
 ### 🔹 Design
@@ -50,8 +50,8 @@
 🎯 _Goal: Add polish and personal character to stand out to recruiters_
 
 ### 🔹 Personal Info
-- [ ] **About Me page**
-  - [ ] Career journey, values, and interests
+- [X] **About Me page**
+  - [X] Career journey, values, and interests
 - [ ] **Short stories section**
   - [ ] Add at least 2–3 of my short stories (Markdown or blog format)
   - [ ] Translate said short-stories to english
