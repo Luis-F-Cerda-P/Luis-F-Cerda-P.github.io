@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Sobre mí 
+title: About me
 permalink: /about/
+lang: en
 ---
 
 ## Hi, my name is Luis 👋  

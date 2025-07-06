@@ -3,20 +3,30 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">Gracias por tu visita</h2>
+    <h2 class="footer-heading">
+      {% if page.lang == "es" %}
+        Gracias por tu visita
+      {% else %}
+        Thanks for stopping by
+      {% endif %}
+    </h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape | newline_to_br }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
+            {% if page.lang == "es" %}
+              Hecho por Luis Cerda con inteligencia natural 🤓
+              <br>
+              (en su mayor parte)
+            {% else %}
+              Made by Luis Cerda with natural intelligence 🤓
+            <br>
+              (mostly)
+            {% endif %}
+           </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
       </div>
@@ -26,7 +36,13 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p>
+          {% if page.lang == "es" %}
+            Portafolio, web personal y blog
+          {% else %}
+            Portfolio, personal site and blog 
+          {% endif %}
+        </p>
       </div>
     </div>
 
