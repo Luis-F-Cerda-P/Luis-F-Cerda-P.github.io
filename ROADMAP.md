@@ -17,7 +17,7 @@
 
 ### 🔹 Core Content
 - [ ] **Home page**
-  - [ ] Short bio / intro
+  - [X] Short bio / intro (sort of, actually came out extense and became the 'About Me' section)
   - [X] Links to GitHub, LinkedIn, Email
 - [ ] **Projects section**
   - [ ] At least 3 projects with:
