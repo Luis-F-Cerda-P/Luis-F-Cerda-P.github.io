@@ -20,15 +20,10 @@
 
 title: Luis F. Cerda
 email: luis.f.cerda.p@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-    Portafolio, web personal y blog
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://luis-f-cerda-p.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Luis-F-Cerda-P
 linkedin_username: Luis-F-Cerda-P
-author: |
-  Hecho por Luis Cerda con inteligencia natural 🤓
-  (en su mayor parte)
 # Build settings
 theme: minima
 plugins:
