@@ -8,14 +8,10 @@ author_profile: true
 ## Hi, my name is Luis 👋  
 I'm a (mostly) self-taught full-stack web developer with a background in law (which I no longer practice — unless we’re debating something).
 
-<br>
-
 ### 💻 My first contact with code came during the pandemic  
 when I wrote a terrible Google Sheets formula that technically worked — and completely changed my life. What began as a way to help a small family ecommerce venture (which needed automation more than anything) quickly became a full-blown obsession with solving problems through code.  
 
 These days, the business runs smoothly without much of my help. The problems we initially set out to solve went away after a lot of hard work… but the love for the craft stuck.
-
-<br>
 
 ### 🎓 I earned full scholarships into two competitive bootcamps
 to formalize what I'd been teaching myself. The first, funded by the Chilean government, focused on Ruby on Rails and helped me solidify web fundamentals through hands-on projects and mentorship. Later, I received another scholarship — this time from MercadoLibre and Globant — to join an 18-month full-stack Java/Spring/React program.  
@@ -41,8 +37,6 @@ While both were valuable and helped shape my foundation, most of my learning cam
   As of July 2025 I'm finishing Harvard's CS50x course and working toward the official certificate — both to fill in computer science fundamentals and simply for the joy of learning how things work at a deeper level.
 </div>
 
-<br>
-
 <div style="text-align: center;">
 
   <h3> 🎯 I’m curious, detail-oriented, and passionate about sharing what I know</h3>
@@ -64,7 +58,7 @@ While both were valuable and helped shape my foundation, most of my learning cam
   font-size: 1rem;
   line-height: 1.6;
 ">
-    <h4>
+    <h4 style="margin: 0 0 1em;">
       If you're looking for a developer who's excited about bringing ideas to life and always eager to improve, I’d love to connect
     </h4>
     <button style="
