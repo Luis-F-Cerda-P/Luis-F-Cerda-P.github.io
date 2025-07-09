@@ -27,20 +27,20 @@
     - [ ] Link to GitHub repo
     - [ ] Link to live demo 
 - [ ] **CV / Resume section**
-  - [ ] Upload a PDF CV
-  - [ ] Add link to download
+  - [X] Upload a PDF CV
+  - [X] Add link to download
   - [ ] Optionally embed preview
 - [ ] **Contact**
-  - [ ] Add mailto: link or form
-  - [ ] Add LinkedIn link
+  - [X] Add mailto: link or form
+  - [X] Add LinkedIn link
 
 ### 🔹 Bilingual Setup
 - [ ] Create Spanish and English versions of each main page
-- [X] Add a language toggle to navbar
+- [ ] Add a language toggle to navbar
 - [ ] Use a translations file in `_data/` (e.g., `i18n.yml`)
 
 ### 🔹 Design
-- [ ] Choose and install a responsive, clean theme (e.g. Minimal Mistakes, Just the Docs, custom)
+- [X] Choose and install a responsive, clean theme (e.g. Minimal Mistakes, Just the Docs, custom)
 - [ ] Test on mobile and tablet
 - [ ] Use consistent colors, fonts, and spacing
 
@@ -98,8 +98,8 @@
 ---
 
 ## 🧭 Deployment Checklist
-- [ ] Push site to GitHub and enable GitHub Pages
-- [ ] Set up custom domain (optional)
+- [X] Push site to GitHub and enable GitHub Pages
+- [X] Set up custom domain (optional)
 - [ ] Check all pages in both languages
 - [ ] Test on mobile and desktop
 - [ ] Check all download links, nav links, and images
