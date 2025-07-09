@@ -6,5 +6,13 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Open Source"
+    url: /portfolio/open-source
+  - title: "Blog"
+    url: /blog/
+  - title: "Short Stories"
+    url: /short-stories/
   - title: "About Me"
     url: /about/
