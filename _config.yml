@@ -25,7 +25,7 @@ description              : "Personal Site, Blog & Portfolio"
 url                      : "https://luis-f-cerda-p.dev"
 baseurl                  : ""
 repository               : "Luis-F-Cerda-P/Luis-F-Cerda-P.github.io"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : "/assets/images/home-banner.jpg"
 logo                     : "/favicon/favicon.svg"
 masthead_title           : "luis-f-cerda-p.dev"
 breadcrumbs              : # true, false (default)
@@ -237,28 +237,28 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 #   for configuration details
-pagination:
+# pagination:
   # Set enabled to true to use paginate v2
   # enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 10
-  permalink: '/page/:num/'
-  title: ':title - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  category: 'posts'
-  tag: ''
-  locale: ''
-  trail:
-    before: 2
-    after: 2
+  # debug: false
+  # collection: 'posts'
+  # per_page: 10
+  # permalink: '/page/:num/'
+  # title: ':title - page :num'
+  # limit: 0
+  # sort_field: 'date'
+  # sort_reverse: true
+  # category: 'posts'
+  # tag: ''
+  # locale: ''
+  # trail:
+  #   before: 2
+  #   after: 2
 
 
 # Plugins (previously gems:)

@@ -1,6 +1,7 @@
 ---
 title: "Thanks for stopping by!"
 layout: splash
+permalink: /
 date: 2025-07-09T10:58:41-04:00
 header:
   overlay_image: /assets/images/home-banner.jpg
