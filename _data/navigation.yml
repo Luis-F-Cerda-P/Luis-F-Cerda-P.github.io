@@ -6,11 +6,18 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Projects"
-    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Blog"
     url: /blog/
   - title: "Short Stories"
     url: /short-stories/
   - title: "About Me"
     url: /about/
+
+xplora-sidebar:
+- title: "Links"
+  children:
+    - title: "<a href=\"https://xplora-portfolio.luis-f-cerda-p.dev\" target=\"_blank\"><i class=\"fas fa-fw fa-globe\" aria-hidden=\"true\"></i>Live Demo</a>"
+    - title: "<a href=\"https://github.com/Luis-F-Cerda-P/Xplora-portfolio/\" target=\"_blank\"><i class=\"fab fa-fw fa-github\" aria-hidden=\"true\"></i>Github Repo</a>"
+    - title: "<a href=\"https://github.com/crisfelipe22/Xplora\" target=\"_blank\"><i class=\"fas fa-fw fa-users\" aria-hidden=\"true\"></i>Original Team Repo</a>"

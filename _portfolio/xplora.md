@@ -1,30 +1,75 @@
 ---
-title: "Xplora"
+title: "Xplora — Experience Booking Platform"
 excerpt: "Full-stack booking app using React (Material UI), Spring Boot API, and a MySQL database."
+date: 2025-07-12
+last_modified_at: 2025-07-13
+classes: wide
 header:
-  image: /assets/images/xplora_portfolio.png
-  teaser: assets/images/xplora_portfolio.png
+  image: /assets/images/xplora_hero.png
+  teaser: /assets/images/xplora_portfolio.png
 sidebar:
   - title: "Role"
-    image: http://placehold.co/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Full-Stack Contributor"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Built UI with React and Material UI; integrated REST API; added S3 uploads and deployed polished portfolio version."
+  - nav: xplora-sidebar
 gallery:
   - url: /assets/images/xplora_portfolio.png
     image_path: assets/images/xplora_portfolio.png
     alt: "placeholder image 1"
+    title: "Admin Dashboard"
   - url: /assets/images/xplora_portfolio.png
     image_path: assets/images/xplora_portfolio.png
     alt: "placeholder image 2"
+    title: "Fully-responsive design and implementation"
   - url: /assets/images/xplora_portfolio.png
     image_path: assets/images/xplora_portfolio.png
+    title: "Amazon S3 image uploading feature" 
     alt: "placeholder image 3"
 ---
 
-Full-stack experience reservation platform featuring a React frontend (with Material UI), a RESTful Spring Boot API, and a MySQL database. Includes an admin dashboard, secure user authentication, and S3-based image uploads. Designed for responsive performance and real-world usability.
+<!-- **TLDR:** Full-stack experience reservation platform featuring a React frontend (with Material UI), a RESTful Spring Boot API, and a MySQL database.
+{: .notice--warning} -->
+
+<!-- ## Overview -->
+
+**Xplora** is a feature-rich reservation platform originally developed as the final project of a 1,500+ hour full-stack bootcamp. Built by a team of nine developers using Agile methodology over four two-week sprints, the app enables users to discover, view, and reserve experiences through a modern, responsive interface.
+
+This portfolio version has been professionally adapted and deployed to demonstrate technical proficiency, production readiness, and deployment best practices.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+## Features
+
+- User registration and login with demo credentials  
+- Admin dashboard for managing experiences  
+- S3 image upload integration  
+- Responsive design for mobile and desktop  
+- Persistent data storage and retrieval via REST API  
+
+## My Role
+
+As part of the original team, I contributed to both frontend and backend development. For this portfolio version, I led the following efforts:
+
+- UI enhancements using **React** and **Material UI**
+- Integration with a **Spring Boot REST API**
+- Implementation of **S3-based image uploads**
+- Setup of **production deployment** and configuration
+- Polish of documentation, demo access, and project presentation
+
+## Tech Stack
+
+- **Frontend:** React.js, Material UI  
+- **Backend:** Spring Boot (REST API)  
+- **Database:** MySQL  
+- **Other:** AWS S3, CI/CD, GitHub Actions  
+
+## Live Demo
+
+<p><i class="fas fa-globe"></i> <strong>URL:</strong> <a href="https://xplora-portfolio.luis-f-cerda-p.dev" target="_blank">https://xplora-portfolio.luis-f-cerda-p.dev</a></p>
+
+<p><i class="fas fa-lock"></i> <strong>Demo Access:</strong><br>
+<strong>Username:</strong> <code>usuario@xplora.com</code><br>
+<strong>Password:</strong> <code>L123456</code></p>
+
+
