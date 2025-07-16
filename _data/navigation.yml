@@ -1,11 +1,4 @@
 main:
-  # Wont' use the following routes currently, since the posts are all the boilerplate ones
-  # - title: "Posts"
-  #   url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Blog"
@@ -14,6 +7,8 @@ main:
     url: /short-stories/
   - title: "About Me"
     url: /about/
+  - title: "All the Code"
+    url: /code/
 
 xplora-sidebar:
 - title: "Links"
