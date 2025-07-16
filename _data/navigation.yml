@@ -18,6 +18,14 @@ main:
 xplora-sidebar:
 - title: "Links"
   children:
-    - title: "<a href=\"https://xplora-portfolio.luis-f-cerda-p.dev\" target=\"_blank\"><i class=\"fas fa-fw fa-globe\" aria-hidden=\"true\"></i>Live Demo</a>"
-    - title: "<a href=\"https://github.com/Luis-F-Cerda-P/Xplora-portfolio/\" target=\"_blank\"><i class=\"fab fa-fw fa-github\" aria-hidden=\"true\"></i>Github Repo</a>"
-    - title: "<a href=\"https://github.com/crisfelipe22/Xplora\" target=\"_blank\"><i class=\"fas fa-fw fa-users\" aria-hidden=\"true\"></i>Original Team Repo</a>"
+    - title: "<i class=\"fas fa-fw fa-globe\" aria-hidden=\"true\" style=\"margin-right: 5px;\"></i>Live Demo"
+      url: "https://xplora-portfolio.luis-f-cerda-p.dev"
+      new_tab: true
+    - title: "<i class=\"fab fa-fw fa-github\" aria-hidden=\"true\" style=\"margin-right: 5px;\"></i>Github Repo"
+      url: "https://github.com/Luis-F-Cerda-P/Xplora-portfolio"
+      new_tab: true
+    - title: "<i class=\"fas fa-fw fa-users\" aria-hidden=\"true\" style=\"margin-right: 5px;\"></i>Original Team Repo"
+      url: "https://github.com/crisfelipe22/Xplora"
+      new_tab: true
+    - title: "<button class=\"btn btn--danger\" style=\"margin-top: 10px;\"><i class=\"fas fa-fw fa-backward-step\" aria-hidden=\"true\"></i>Back to projects</button>"
+      url: "/portfolio"
