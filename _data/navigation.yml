@@ -24,3 +24,15 @@ xplora-sidebar:
       new_tab: true
     - title: "<button class=\"btn btn--danger\" style=\"margin-top: 10px;\"><i class=\"fas fa-fw fa-backward-step\" aria-hidden=\"true\"></i>Back to projects</button>"
       url: "/portfolio"
+
+xplora-sidebar:
+- title: "Links"
+  children:
+    - title: "<i class=\"fas fa-fw fa-globe\" aria-hidden=\"true\" style=\"margin-right: 5px;\"></i>Live Demo"
+      url: "https://lodemas.luis-f-cerda-p.dev"
+      new_tab: true
+    - title: "<i class=\"fab fa-fw fa-github\" aria-hidden=\"true\" style=\"margin-right: 5px;\"></i>Github Repo"
+      url: "https://github.com/Luis-F-Cerda-P/Lodemas"
+      new_tab: true
+    - title: "<button class=\"btn btn--danger\" style=\"margin-top: 10px;\"><i class=\"fas fa-fw fa-backward-step\" aria-hidden=\"true\"></i>Back to projects</button>"
+      url: "/portfolio"
